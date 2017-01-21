@@ -55,11 +55,16 @@ img {
   color: #fff;
   position: relative; }
 
+.size {
+  height: 200px; }
+
 .btn-custom {
   width: 90%;
-  margin: 0 5%;
+  margin: 10% 5%;
   background: #677EA1;
-  border: 1px solid #677EA1; }
+  border: 1px solid #677EA1;
+  height: 50px;
+  line-height: 25px; }
 
 .bottom a {
   font-size: 8px;
@@ -81,7 +86,7 @@ img {
   border: none;
   padding: 5% 0;
   color: black;
-  height: 100px;
+  height: 10%;
   font-size: 8px; }
 
 .thumb__link {
@@ -100,13 +105,23 @@ img {
   margin: 0 5%;
   border: none;
   padding: 3% 0;
-  height: 80px;
+  height: 10%;
   font-size: 8px;
   color: black;
   margin-bottom: 5%; }
 
 .project__details h1 {
   font-size: 12px; }
+
+.f__custom img {
+  width: 40%;
+  height: 15%;
+  margin-bottom: 50%;
+  margin-top: -15%;
+  margin-left: 80%; }
+
+.social__link {
+  width: 10%; }
 
 #app-container {
   max-width: 100%;

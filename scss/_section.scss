@@ -35,19 +35,25 @@
 .botttom{
   padding-top: 10%;
 }
+
 .background-splash{
   background-image: url("../images/solrod-drawingboard-background.jpg");
 	background-size: cover;
 	color: #fff;
 	position: relative;
 }
-
+.size{
+  height: 200px;
+}
 .btn-custom{
   width: 90%;
-  margin: 0 5%;
+  margin: 10% 5%;
   background: #677EA1;
   border: 1px solid #677EA1;
+  height: 50px;
+  line-height: 25px;
 }
+
 .bottom a{
   font-size: 8px;
   font-weight: 100;
