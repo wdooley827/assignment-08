@@ -1,0 +1,55 @@
+.intro-style{
+  background: #fff;
+  margin: 0 20%;
+}
+.intro-style h1{
+  font-size: 16px;
+  font-family: "Palatino";
+  font-weight: 100;
+  margin-top: 1%;
+}
+
+.intro-style p{
+  font-size: 10px;
+  margin-top: 5%;
+}
+
+.middle-style{
+  background: #50AD79;
+  margin: auto;
+  color: #D2D9D5;
+}
+
+.middle-style h1{
+  font-size: 14px;
+  font-family: "Palatino";
+  font-weight: 0;
+  margin-top: 1%;
+}
+
+.middle-style p{
+  font-size: 10px;
+  margin-top: 5%;
+}
+
+.botttom{
+  padding-top: 10%;
+}
+.background-splash{
+  background-image: url("../images/solrod-drawingboard-background.jpg");
+	background-size: cover;
+	color: #fff;
+	position: relative;
+}
+
+.btn-custom{
+  width: 90%;
+  margin: 0 5%;
+  background: #677EA1;
+  border: 1px solid #677EA1;
+}
+.bottom a{
+  font-size: 8px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}

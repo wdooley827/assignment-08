@@ -1,0 +1,88 @@
+<div class="profile__img-column">
+  <img src=./images/solrod-profile-pic-1-eric.png>
+</div>
+<div class="profile__bio-column">
+  <p>Eric Turner</p>
+  <p>Co-Founder / Design Director</p>
+  <p>BFE, WA</p>
+  <a href="#" class="profile__bio-link">
+    @stremph
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-2-karen.png">
+</div>
+<div class="profile__bio-column">
+  <p>Karen Kenney</p>
+  <p>Support</p>
+  <p>Middle of Nowhere, WA</p>
+  <a href="#" class="profile__bio-link">
+    @AlmightyKaren
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-3-lee.png">
+</div>
+<div class="profile__bio-column">
+  <p>Lee Jensen</p>
+  <p>Engineering Director</p>
+  <p>Bountiful, UT</p>
+  <a href="#" class="profile__bio-link">
+    @outerim
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-4-carl.png">
+</div>
+<div class="profile__bio-column">
+  <p>Carl DeCaire</p>
+  <p>Design</p>
+  <p>Columbus, OH</p>
+  <a href="#" class="profile__bio-link">
+    @empirikal
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-5-anthony.png">
+</div>
+<div class="profile__bio-column">
+  <p>Anthony Colangelo</p>
+  <p>Engineering</p>
+  <p>Philadelphia, PA</p>
+  <a href="#" class="profile__bio-link">
+    @acolangelo
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-6-cella.png">
+</div>
+<div class="profile__bio-column">
+  <p>Cella Sum</p>
+  <p>Engineering</p>
+  <p>Philadelphia, PA</p>
+  <a href="#" class="profile__bio-link">
+    @celllla
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-7-ashkay.png">
+</div>
+<div class="profile__bio-column">
+  <p>Ashkay Anikhindi</p>
+  <p>Support</p>
+  <p>Richmond, VA</p>
+  <a href="#" class="profile__bio-link">
+    @JayKayShay
+  </a>
+</div>
+<div class="profile__img-column">
+  <img src="./images/solrod-profile-pic-8-latoya.png">
+</div>
+<div class="profile__bio-column">
+  <p>LaToya Allen</p>
+  <p>Engineering</p>
+  <p>Chicago, IL</p>
+  <a href="#" class="profile__bio-link">
+    @HashtagLaToya
+  </a>
+</div>

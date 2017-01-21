@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box; }
+
+img {
+  width: 100%;
+  display: block; }
+
+.header-style {
+  background: #50AD79;
+  margin: 0; }
+
+.box-border p {
+  border: 2px solid #fff;
+  width: 34%;
+  margin: 0 33%;
+  color: #fff;
+  padding: 2% 0;
+  font-size: 6px; }
+
+.intro-style {
+  background: #fff;
+  margin: 0 20%; }
+
+.intro-style h1 {
+  font-size: 16px;
+  font-family: "Palatino";
+  font-weight: 100;
+  margin-top: 1%; }
+
+.intro-style p {
+  font-size: 10px;
+  margin-top: 5%; }
+
+.middle-style {
+  background: #50AD79;
+  margin: auto;
+  color: #D2D9D5; }
+
+.middle-style h1 {
+  font-size: 14px;
+  font-family: "Palatino";
+  font-weight: 0;
+  margin-top: 1%; }
+
+.middle-style p {
+  font-size: 10px;
+  margin-top: 5%; }
+
+.botttom {
+  padding-top: 10%; }
+
+.background-splash {
+  background-image: url("../images/solrod-drawingboard-background.jpg");
+  background-size: cover;
+  color: #fff;
+  position: relative; }
+
+.btn-custom {
+  width: 90%;
+  margin: 0 5%;
+  background: #677EA1;
+  border: 1px solid #677EA1; }
+
+.bottom a {
+  font-size: 8px;
+  font-weight: 100;
+  letter-spacing: 1px; }
+
+.profiles {
+  background-color: #50AD79; }
+
+.profiles img {
+  width: 50%;
+  margin: 0 25%;
+  margin-top: 5%; }
+
+.thumb__details {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  border: none;
+  padding: 5% 0;
+  color: black;
+  height: 100px;
+  font-size: 8px; }
+
+.thumb__link {
+  color: #97F2B8; }
+
+.projects {
+  background-color: #50AD79; }
+
+.projects img {
+  width: 90%;
+  margin: 0 5%;
+  margin-top: 5%; }
+
+.project__details {
+  width: 90%;
+  margin: 0 5%;
+  border: none;
+  padding: 3% 0;
+  height: 80px;
+  font-size: 8px;
+  color: black;
+  margin-bottom: 5%; }
+
+.project__details h1 {
+  font-size: 12px; }
+
+#app-container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+
+.column-container {
+  font-size: 0; }
+  .column-container > * {
+    display: inline-block;
+    vertical-align: top;
+    font-size: medium; }
+
+/*# sourceMappingURL=styles.css.map */
