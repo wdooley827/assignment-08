@@ -1,19 +1,36 @@
 .intro-style{
   background: #fff;
   margin: 0 20%;
+  @media screen and (min-width: 768px){
+    margin: 0 2%;
+  }
 }
 .intro-style h1{
-  font-size: 16px;
+  font-size: 90%;
   font-family: "Palatino";
   font-weight: 100;
   margin-top: 1%;
+  @media screen and (min-width: 768px){
+    font-size: 170%;
+    margin-top: -3%;
+    margin-bottom: -1%;
+  }
 }
 
 .intro-style p{
-  font-size: 10px;
+  font-size: 70%;
   margin-top: 5%;
+  @media screen and (min-width: 768px){
+    font-size: 100%;
+    margin: 0 20%;
+    padding-top: 3%;
+  }
 }
-
+.intro-box {
+  @media screen and (min-width: 768px){
+    background: #50AD79;
+  }
+}
 .middle-style{
   background: #50AD79;
   margin: auto;
@@ -21,15 +38,16 @@
 }
 
 .middle-style h1{
-  font-size: 14px;
+  font-size: 90%;
   font-family: "Palatino";
   font-weight: 0;
   margin-top: 1%;
 }
 
 .middle-style p{
-  font-size: 10px;
+  font-size: 70%;
   margin-top: 5%;
+  margin: 0 5%;
 }
 
 .botttom{
@@ -43,19 +61,18 @@
 	position: relative;
 }
 .size{
-  height: 200px;
+  height: 100%;
 }
 .btn-custom{
   width: 90%;
   margin: 10% 5%;
   background: #677EA1;
   border: 1px solid #677EA1;
-  height: 50px;
   line-height: 25px;
 }
 
 .bottom a{
-  font-size: 8px;
+  font-size: 45%;
   font-weight: 100;
   letter-spacing: 1px;
 }

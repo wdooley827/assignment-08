@@ -15,21 +15,51 @@ img {
   margin: 0 33%;
   color: #fff;
   padding: 2% 0;
-  font-size: 6px; }
+  font-size: 45%; }
+
+.nav__icon {
+  position: fixed;
+  top: 0;
+  left: 2%;
+  height: 10%;
+  width: 10%;
+  text-align: center;
+  padding-top: 6px;
+  color: #fff;
+  background: #333;
+  z-index: 1000;
+  font-size: 130%; }
 
 .intro-style {
   background: #fff;
   margin: 0 20%; }
+  @media screen and (min-width: 768px) {
+    .intro-style {
+      margin: 0 2%; } }
 
 .intro-style h1 {
-  font-size: 16px;
+  font-size: 90%;
   font-family: "Palatino";
   font-weight: 100;
   margin-top: 1%; }
+  @media screen and (min-width: 768px) {
+    .intro-style h1 {
+      font-size: 170%;
+      margin-top: -3%;
+      margin-bottom: -1%; } }
 
 .intro-style p {
-  font-size: 10px;
+  font-size: 70%;
   margin-top: 5%; }
+  @media screen and (min-width: 768px) {
+    .intro-style p {
+      font-size: 100%;
+      margin: 0 20%;
+      padding-top: 3%; } }
+
+@media screen and (min-width: 768px) {
+  .intro-box {
+    background: #50AD79; } }
 
 .middle-style {
   background: #50AD79;
@@ -37,14 +67,15 @@ img {
   color: #D2D9D5; }
 
 .middle-style h1 {
-  font-size: 14px;
+  font-size: 90%;
   font-family: "Palatino";
   font-weight: 0;
   margin-top: 1%; }
 
 .middle-style p {
-  font-size: 10px;
-  margin-top: 5%; }
+  font-size: 70%;
+  margin-top: 5%;
+  margin: 0 5%; }
 
 .botttom {
   padding-top: 10%; }
@@ -56,18 +87,17 @@ img {
   position: relative; }
 
 .size {
-  height: 200px; }
+  height: 100%; }
 
 .btn-custom {
   width: 90%;
   margin: 10% 5%;
   background: #677EA1;
   border: 1px solid #677EA1;
-  height: 50px;
   line-height: 25px; }
 
 .bottom a {
-  font-size: 8px;
+  font-size: 45%;
   font-weight: 100;
   letter-spacing: 1px; }
 
@@ -78,6 +108,12 @@ img {
   width: 50%;
   margin: 0 25%;
   margin-top: 5%; }
+  @media screen and (min-width: 768px) {
+    .profiles img {
+      width: 80%;
+      margin: auto;
+      padding: 0;
+      margin-top: 10%; } }
 
 .thumb__details {
   width: 50%;
@@ -87,10 +123,15 @@ img {
   padding: 5% 0;
   color: black;
   height: 10%;
-  font-size: 8px; }
+  font-size: 50%; }
 
 .thumb__link {
   color: #97F2B8; }
+
+@media screen and (min-width: 768px) {
+  .thumbnail {
+    width: 80%;
+    margin: auto; } }
 
 .projects {
   background-color: #50AD79; }
@@ -106,12 +147,14 @@ img {
   border: none;
   padding: 3% 0;
   height: 10%;
-  font-size: 8px;
-  color: black;
+  font-size: 50%;
+  color: #DBDBDB;
   margin-bottom: 5%; }
 
 .project__details h1 {
-  font-size: 12px; }
+  font-size: 100%;
+  font-weight: 700;
+  color: #919191; }
 
 .f__custom img {
   width: 40%;

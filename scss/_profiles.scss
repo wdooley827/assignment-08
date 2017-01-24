@@ -6,6 +6,12 @@
   width: 50%;
   margin:0 25%;
   margin-top: 5%;
+  @media screen and (min-width: 768px){
+    width: 80%;
+    margin: auto;
+    padding: 0;
+    margin-top: 10%;
+    }
 }
 
 .thumb__details{
@@ -16,8 +22,15 @@
   padding: 5% 0;
   color: black;
   height: 10%;
-  font-size: 8px;
+  font-size: 50%;
 }
 .thumb__link{
   color: #97F2B8;
+}
+
+.thumbnail{
+  @media screen and (min-width:768px){
+    width: 80%;
+    margin: auto;
+  }
 }
